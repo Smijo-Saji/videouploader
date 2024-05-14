@@ -1,0 +1,10 @@
+.addbtn {
+  background-color: #272829;
+  color: white;
+}
+.addbtn svg {
+  width: 25px;
+}
+/* .addbtn:hover {
+  background-color: #272829;
+} */

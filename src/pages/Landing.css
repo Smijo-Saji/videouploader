@@ -1,0 +1,27 @@
+.heroimg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heroimg img {
+  width: 70%;
+}
+
+.herotxt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  background-image: url(https://i.postimg.cc/ydnWJwPP/Whats-App-Image-2024-04-23-at-10-31-11-PM.jpg);
+  background-size: cover;
+}
+.herotxt h1 {
+  font-size: clamp(40px, 6vw, 80px);
+  font-weight: 700;
+  margin: 0;
+}
+
+.herobtn {
+  background-color: #272829;
+  color: white;
+}

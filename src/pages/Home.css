@@ -1,0 +1,17 @@
+.homeimg img {
+  width: 100%;
+}
+
+.historydiv p {
+  border: 1px solid #1e56a0;
+  border-radius: 5px;
+  padding: 8px;
+}
+.historytxt {
+  font-size: 18px;
+  color: #1e56a0;
+}
+
+.sec2 {
+  height: 400px;
+}

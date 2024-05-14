@@ -1,0 +1,9 @@
+.cardbodysec {
+  background-color: #272829;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.cardimgsec {
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}

@@ -1,0 +1,16 @@
+.footerdiv {
+  font-family: "Lexend", sans-serif;
+  background-color: #272829;
+  color: white;
+}
+.footerdiv p {
+  margin: 0;
+}
+
+.sec-1,
+.sec-2,
+.sec-3,
+.sec-4 {
+  font-weight: 200;
+  /* opacity: 0.8; */
+}
